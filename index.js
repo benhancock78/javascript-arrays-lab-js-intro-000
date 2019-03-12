@@ -27,7 +27,7 @@ function  appendKitten()  {
 }
 //problem
 function  prependKitten() {
-  var newKittens = "Arnold");
+  //var newKittens = "Arnold");
   return  newKittens;
 }
 function  removeLastKitten()  {
